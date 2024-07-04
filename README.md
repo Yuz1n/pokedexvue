@@ -38,4 +38,4 @@ O PokeHaven é uma aplicação web que permite aos usuários buscar, filtrar e v
   - Modal que exibe informações detalhadas do Pokémon selecionado, como tipos, altura, peso, habilidades e estatísticas.
 
 ## Deploy da Aplicação
-- A aplicação pode ser facilmente acessada em https://pokedexvuejs.vercel.app/
+- A aplicação pode ser facilmente acessada em https://pokedexvue-hazel.vercel.app/
